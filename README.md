@@ -67,7 +67,7 @@ This folder includes all code that analyze PMIP simulations.\
 4.1. All the figures will be saved to the folder "Figures/"\
 4.2. Before running our code, please make sure that all packages specified in the "0. library.R" have been installed.\
 4.3. Readers are required to download relevant data in the "Data Availability" section before running the code.\
-4.4. The functions that authors defined are saved in the "functions/" folder. \
+4.4. The functions that authors defined are saved in the "functions/" folder. 
 
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
