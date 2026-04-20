@@ -1,5 +1,9 @@
 
-# This file includes all code that generate main results in our manuscript.
+# This file includes all code that generate main results in the manuscript as following citation:
+
+Xu Zhang, Jiinbao Li, Laibao Liu, Annually resolved atmospheric CO growth rate over the past nine centuries, Nature Communications, https://doi.org/10.1038/s41467-026-72220-2.
+
+Here are the introduction:
 
 ## 1. System requirements
 R (4.4.1) and RStudio (2024.09.1) are required to run the code.
