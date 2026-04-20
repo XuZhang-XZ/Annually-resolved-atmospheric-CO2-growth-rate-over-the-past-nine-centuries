@@ -1,7 +1,7 @@
 
-# This file includes all code that generate main results in the manuscript as following citation:
+# This file includes all code that generate main results in the article entitled "Annually resolved atmospheric CO growth rate over the past nine centuries"
 
-Xu Zhang, Jiinbao Li, Laibao Liu, Annually resolved atmospheric CO growth rate over the past nine centuries, Nature Communications, https://doi.org/10.1038/s41467-026-72220-2.
+Citation: Xu Zhang, Jiinbao Li, Laibao Liu, Annually resolved atmospheric CO growth rate over the past nine centuries, Nature Communications, https://doi.org/10.1038/s41467-026-72220-2.
 
 Here are the introduction:
 
